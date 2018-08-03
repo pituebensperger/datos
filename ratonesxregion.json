@@ -1,0 +1,27 @@
+[
+   {
+      "region": "Arica y Parinacota",
+      "especies": 15
+   },
+   {
+      "region": "Tarapacá",
+      "especies": 14
+   }, 
+   {
+      "region": "Antofagasta",
+      "especies": 11
+   },
+   {
+      "region": "Atacama",
+      "especies": 
+   },
+          {
+      "region": "Coquimbo",
+      "especies": 
+   },
+               {
+      "region": "Valparaíso",
+      "especies": 
+   },
+                   
+] ;
