@@ -1,0 +1,62 @@
+[
+   {
+      "region": "Arica y Parinacota",
+      "especies": 15
+   },
+   {
+      "region": "Tarapacá",
+      "especies": 14
+   }, 
+   {
+      "region": "Antofagasta",
+      "especies": 11
+   },
+   {
+      "region": "Atacama",
+      "especies": 9
+   },
+          {
+      "region": "Coquimbo",
+      "especies": 11
+   },
+               {
+      "region": "Valparaíso",
+      "especies": 11
+   },
+           {
+      "region": "Region Metropolitana",
+      "especies": 12
+   },
+    {
+      "region": "Libertador Bernardo O’Higgins",
+      "especies": 12
+   },
+    {
+      "region": "Maule",
+      "especies": 12
+   },
+    {
+      "region": "Bio Bio",
+      "especies": 12
+   },
+    {
+      "region": "La Araucanía",
+      "especies": 13
+   },
+    {
+      "region": "Los rios",
+      "especies": 8
+   },
+    {
+      "region": "Los lagos",
+      "especies": 9
+   },
+    {
+      "region": "Aysen",
+      "especies": 13
+   },
+    {
+      "region": "Magallanes",
+      "especies": 13
+   }
+] 
