@@ -22,6 +22,41 @@
                {
       "region": "Valparaíso",
       "especies": 11
-   }
-                   
-]
+   },
+           {
+      "region": "Region Metropolitana",
+      "especies": 12
+   },
+    {
+      "region": "Libertador Bernardo O’Higgins",
+      "especies": 12
+   },
+    {
+      "region": "Maule",
+      "especies": 12
+   },
+    {
+      "region": "Bio Bio",
+      "especies": 12
+   },
+    {
+      "region": "La Araucanía",
+      "especies": 13
+   },
+    {
+      "region": "Los rios",
+      "especies": 8
+   },
+    {
+      "region": "Los lagos",
+      "especies": 9
+   },
+    {
+      "region": "Aysen",
+      "especies": 13
+   },
+    {
+      "region": "Magallanes",
+      "especies": 13
+   },
+] 
