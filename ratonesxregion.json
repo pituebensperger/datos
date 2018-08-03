@@ -13,15 +13,15 @@
    },
    {
       "region": "Atacama",
-      "especies": 3
+      "especies": 9
    },
-   {
+          {
       "region": "Coquimbo",
-      "especies": 3
+      "especies": 11
    },
-   {
+               {
       "region": "Valparaíso",
-      "especies": 3
+      "especies": 11
    }
                    
-] 
+] ;
